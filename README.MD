@@ -34,4 +34,5 @@ flask run
 ```
 
 ## Автор
-Автор
+CodeYellow1338 on GitHub
+CodeYellow#6399 in Discord
